@@ -1,5 +1,5 @@
 ### ¿Que tal? 👋
-HTML, CSS, BOOTSTRAP.
+HTML, CSS, BOOTSTRAP, SASS.
 
 Aprendiendo a utilizar JavaScript y React JSS.
 
