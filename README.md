@@ -1,9 +1,9 @@
 ### ¿Que tal? 👋
-HTML, CSS, BOOTSTRAP, SASS.
+HTML, CSS, BOOTSTRAP, SASS, JAVASCRIPT.
 
 Egresado de Desarrollo Web en CoderHouse.
 
-Aprendiendo a utilizar JavaScript y React JSS.
+Aprendiendo a utilizar React JSS.
 
 Actualmente buscando un empleo. 
 
