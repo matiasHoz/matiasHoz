@@ -5,7 +5,7 @@ Egresado de Desarrollo Web en CoderHouse.
 
 Aprendiendo a utilizar React JSS.
 
-Actualmente buscando un empleo. 
+Actualmente trabajando de Community Manager.
 
 Desarrollando proyectos personales. 
 
